@@ -8,8 +8,8 @@ Simple object detection app with streamlit. Upload an image and perform object d
 ## Run with Docker
 From the root dir:
 ```
-    docker build -t robmarkcole/object-detection-app .
-    docker run -p 8501:8501 robmarkcole/object-detection-app:latest
+    docker build -t Olorunnisola01/Object_detection_deployment.
+    docker run -p 8501:8501 Olorunnisola01/Object_detection_deployment:latest
 ```
 Then visit [localhost:8501](http://localhost:8501/)
 
