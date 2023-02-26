@@ -1,5 +1,5 @@
-# object-detection-app
-Simple object detection app with streamlit. Upload an image and perform object detection. Adjust the confidence threshold to see how this affects predictions.
+# Object detection app
+This app enables you to perform object detection by uploading an image. You can modify the confidence threshold and observe the impact it has on the predictions.
 
 <p align="center">
 <img src="https://github.com/Olorunnisola01/Object_detection_deployy/blob/main/images/usage.jpg" width="700">
